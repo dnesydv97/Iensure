@@ -1,0 +1,13 @@
+const baseURL = 'http://203.78.165.19:9078';
+import Config from '../../config';
+ export const FISCAL_YEAR = `${Config.API_URL}Dashboardfilter/GetFiscalYear`;
+export const BRANCH_POST =`${Config.API_URL}DashboardFilter/GetBranchList`;
+export const FILTER_POST =`${Config.API_URL}DashboardClaim/GetPremiumVsGrossClaim`;
+export const CLAIM_SUMMARY =`${Config.API_URL}DashboardClaim/GetClaimOutstandingSummary`;
+export const CLAIM_PAID =`${Config.API_URL}DashboardClaim/GetClaimPaidSummary`;
+export const fISCAL_YEAR_DATE =`${Config.API_URL}Dashboardfilter/GetDatePerFiscalId`;
+export const GET_BUSINESS_TODAY =`${Config.API_URL}DashboardSalesMarketing/GetBusinessTodayReport`;
+export const GET_FO_BUSINESS =`${Config.API_URL}DashboardSalesMarketing/GetFOBusiness`;
+export const GET_FO_PORTFOLIO =`${Config.API_URL}DashboardSalesMarketing/GetFOPortfolio`;
+export const CLAIM_PENDING_API =`${Config.API_URL}ClaimApproval/GetAccordingToFilterForPending`;
+export const CLAIM_APPROVAL_API =`${Config.API_URL}ClaimApproval/GetAccordingToFilterForApproved`;

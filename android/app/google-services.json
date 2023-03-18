@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548170072269",
+    "project_id": "iensure-336305",
+    "storage_bucket": "iensure-336305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548170072269:android:4437dabf7f7a4c335ba984",
+        "android_client_info": {
+          "package_name": "com.ensure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548170072269-2tq4n3jqrf4q2ohudjt0k1mgran3kg51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuPV5x-penTxwGvkzoFkmMAzGUacF2HN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548170072269-2tq4n3jqrf4q2ohudjt0k1mgran3kg51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
